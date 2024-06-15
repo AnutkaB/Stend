@@ -39,8 +39,6 @@ out/
 *.tar.gz
 *.rar
 
-*.png
-
 ### Exclusions ###
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
